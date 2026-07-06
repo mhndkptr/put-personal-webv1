@@ -57,7 +57,7 @@ export function HeroSection() {
           <div className="relative mx-auto w-full max-w-sm lg:mx-0 lg:ml-auto animate-fade-in">
             <div className="relative aspect-[3/4] overflow-hidden rounded-2xl border border-[#1e2035] shadow-2xl shadow-indigo-900/10">
               <Image
-                src="/img-foto-hendika.JPG"
+                src="/img-foto-hendika.png"
                 alt="Professional portrait"
                 fill
                 className="object-cover"
